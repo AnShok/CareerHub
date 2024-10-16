@@ -1,5 +1,18 @@
 # Дипломный проект Яндекс.Практикума по курсу "Android-разработчик"
 
+![Kotlin](https://img.shields.io/badge/Kotlin-blue)
+![MVVM](https://img.shields.io/badge/Architecture-MVVM-brightgreen)
+![Min API Level](https://img.shields.io/badge/Min%20API-26-brightgreen)
+![Target API Level](https://img.shields.io/badge/Target%20API-33-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Room](https://img.shields.io/badge/Room-2.6.1-yellow)
+![Glide](https://img.shields.io/badge/Glide-4.14.2-green)
+![Retrofit](https://img.shields.io/badge/Retrofit-2.11.0-orange)
+![Koin](https://img.shields.io/badge/Koin-3.5.6-red)
+![Detekt](https://img.shields.io/badge/Detekt-1.23.3-purple)
+![Coroutines](https://img.shields.io/badge/Coroutines-1.7.3-lightblue)
+
+
 Проект представляет собой стартовую точку для разработки дипломного проекта Яндекс.Практикума по
 курсу ["Android-разработчик"](https://practicum.yandex.ru/android-developer/).
 
